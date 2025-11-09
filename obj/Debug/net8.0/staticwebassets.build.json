@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "67Iw8QVmXNDH+Ncy8jlEZBSStwudGkhzGqjXj6JeP1U=",
+  "Source": "JobInterviewAPI",
+  "BasePath": "_content/JobInterviewAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
